@@ -1,2 +1,0 @@
-smaltin-rules.github.io
-=======================
