@@ -5,3 +5,7 @@ background-image: gradient( linear, left top, right top, color-stop(0, #f22), co
 color:transparent;
 -webkit-background-clip: text;
 background-clip: text;
+}
+.green {
+<background>green</background>  
+}
