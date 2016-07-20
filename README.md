@@ -3,4 +3,4 @@ Please do not copy or modiy anything. Everything is for me to have a testing web
 
 > ## NEW!
 >
-> Go to [smaltin.tk]() to see this site!
+> Go to [www.smaltin.tk]() to see this site!
